@@ -1,0 +1,12 @@
+
+Gostaria primeiramente de agradecer pela oportunidade de participar do processo seletivo.
+
+Tive como principais dificuldades:
+
+Versão das bibliotecas: Após as mudanças de versão de algumas bibliotecas, 
+como react-router-dom, tive dificuldades entre as mudanças e o que eu havia utilizado anteriormente em 
+outros projetos.
+
+Resolução de bugs: Como todo bom e velho projeto tive alguns bugs a qual me tomaram grande parte do meu
+tempo.
+

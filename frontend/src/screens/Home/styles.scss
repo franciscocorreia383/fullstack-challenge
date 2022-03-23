@@ -1,0 +1,19 @@
+.container {
+    flex: 1;
+    background: #835afd;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+
+    > p {
+        margin: 0 8px;
+        font: 700 20px "Poppins", sans-serif;
+    }
+}
+
+#finished {
+    box-shadow: 0 2px 12px rgba(131, 90, 253, 1);
+}
+

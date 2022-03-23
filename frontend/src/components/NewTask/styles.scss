@@ -1,0 +1,50 @@
+#content{
+    margin: 16px 5px;
+}
+
+form {
+    textarea{
+        width: 100%;
+                border: 0;
+                padding: 16px;
+                border-radius: 8px;
+                background: #fefefe;
+                box-shadow: 0 2px 12px rgba(131, 90, 253, 1);
+                resize: vertical;
+                min-height: 122px;
+    }
+    input {
+        height: 50px;
+        border-radius: 8px;
+        padding: 0 16px;
+        background: #fff;
+        border: 1px solid #a8a8b3;
+        margin-bottom: 5px;
+        resize: vertical;
+        box-shadow: 0 2px 12px rgba(131, 90, 253, 1);
+    }
+    button {
+        margin-top: 16px;
+    }
+
+    button,
+    input {
+        width: 100%;
+    }
+}
+
+#div-container {
+    display: flex;
+    flex:1;
+    justify-content:space-between;
+}
+
+#description-form{
+    flex:1;
+    height: 100%;
+}
+
+
+#data-picker{
+    margin-left: 5px;
+}

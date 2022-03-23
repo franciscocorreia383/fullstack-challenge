@@ -1,0 +1,34 @@
+#container {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin: 5px 5px;
+    padding: 0px 10px;
+    border-radius: 8px;
+    border: 1px solid #a8a8b3;
+    background-color: #fff;
+    box-shadow: 0 2px 12px rgba(131, 90, 253, 1);  
+}
+
+#description {
+    height: 50px;
+    border-radius: 8px;
+    padding: 0 16px;
+    border: 1px solid #a8a8b3;
+    margin-bottom: 5px;
+    justify-content: center;
+    resize: vertical;
+    max-width: 500px;
+}
+
+#created {
+    margin-top: 15px;
+}
+
+#deadline{
+    margin-top: 15px;
+}
+
+#finished-date{
+    margin-top: 15px;
+}

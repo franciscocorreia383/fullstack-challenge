@@ -1,0 +1,20 @@
+.container-current{
+    display: flex;
+    justify-content:space-between;
+    width:100%;
+    border:1px solid rgba(131, 90, 253, 1);
+    border-radius: 8px;
+    margin-top: 5px;
+    
+
+    #email-current{
+        width:100%;
+    }
+
+    #description-current{
+        width:100%;
+    }
+    #deadline-current{
+        width:100%;
+    }
+}
